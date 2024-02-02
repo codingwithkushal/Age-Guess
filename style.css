@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 55px;
+}
+p{
+    font-family:sans-serif;
+    font-weight: bolder;
+}
+button{
+    border-radius: 4px;
+    padding: 6px;
+    background-color: aliceblue;
+    border-color: black;
+}
